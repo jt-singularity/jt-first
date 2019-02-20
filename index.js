@@ -1,3 +1,3 @@
-module.export = function logParam(param) {
+module.exports = function logParam(param) {
   console.log(param);
 };

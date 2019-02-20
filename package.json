@@ -1,4 +1,7 @@
 {
   "name": "@jt-si/jt-first",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "jt-singularity/jt-first",
+  "main": "index.js"
 }
